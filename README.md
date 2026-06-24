@@ -121,5 +121,7 @@ Foot Locker's 2021 momentum ($23M) warrants deeper strategic investment. Amazon 
 **🛠️ Tools Used**
 
 Power Query — Data cleaning, transformation, and column standardisation
+
 Power BI Desktop — Data modelling, DAX measures, and dashboard development
+
 DAX — Custom measures for KPI tracking and dynamic metric selection
