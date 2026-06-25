@@ -1,4 +1,4 @@
-# Adidas-Sale-Performance-Dashboard
+# Adidas-Sales-Performance-Dashboard
 An interactive Power BI dashboard analysing $120 million in Adidas sales data across 2020 and 2021, covering six product categories, five US regions, six major retail partners, and three sales channels. Built to answer key strategic questions about where Adidas is generating revenue, where growth is happening, and where corrective action is needed.
 
 **📌 Project Goal**
